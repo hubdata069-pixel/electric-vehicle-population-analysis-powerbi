@@ -1,0 +1,13 @@
+# Power BI temp files
+*.pbix.tmp
+*.pbit.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Excel autosave
+~$*.xlsx
+
+# Power BI cache
+*.abf
