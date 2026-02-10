@@ -8,6 +8,11 @@ The goal of this project is to demonstrate **data cleaning, DAX, dashboard desig
 
 ---
 
+🔗 **Live Power BI Dashboard:**  
+[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWVlNzAwNGYtNTJhOS00ZWNiLTk3YzgtODE5MTY5NjAxZTE5IiwidCI6IjI5ZTIzNTFkLWVlNGItNGY2Yy05YzUxLThlMWFjZmM1NWM2NiIsImMiOjh9)
+
+---
+
 ## 📊 Key Business Questions Answered
 - How many electric vehicles are registered?
 - What is the distribution between BEVs and PHEVs?
